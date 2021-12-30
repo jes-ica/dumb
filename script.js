@@ -1,5 +1,6 @@
 
 $(function(){
-  var dt = new Date();
-  document.getElementById('date-time').innerHTML=dt
+  //var dt = new Date();
+  var dt = "hello";
+  document.getElementById('date-time').innerHTML=dt;
 });
