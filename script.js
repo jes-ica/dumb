@@ -1,5 +1,5 @@
 console.log("bruh")
-let dt = document.getElementByID('date-time');
+let dt = document.getElementById('date-time');
 dt.textContent = "hello";
 
 
