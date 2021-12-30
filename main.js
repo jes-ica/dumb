@@ -1,3 +1,4 @@
 
 let dt = document.getElementByID('date-time');
-dt.textContent = "hello";
+dt.innerHTML = "hello";
+console.log("bruh")
