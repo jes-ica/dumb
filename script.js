@@ -1,6 +1,3 @@
 
-$(function(){
-  //var dt = new Date();
-  $var dt = "hello";
-  $document.getElementById('date-time').innerHTML=dt;
-});
+let dt = document.getElementByID('date-time');
+dt = "hello";
