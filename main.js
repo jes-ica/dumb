@@ -1,3 +1,3 @@
 
 let dt = document.getElementByID('date-time');
-dt = "hello";
+dt.textContent = "hello";
